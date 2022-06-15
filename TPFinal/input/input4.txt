@@ -1,0 +1,76 @@
+Menu de acciones:
+1. Buscar
+2. Agregar
+3. Eliminar
+4. Editar
+5. Cargar
+6. Guardar
+7. Deshacer
+8. Rehacer
+9. AND
+10. OR
+11. Guardar ordenado
+12. Buscar por suma de edades
+13. Salir
+Seleccione una accion:
+> 2
+Ingrese un nombre:
+> Luciano
+Ingrese un apellido:
+> Barletta
+Ingrese una edad:
+> 20
+Ingrese un telefono:
+> 123456789
+Seleccione una accion:
+> 2 
+Ingrese un nombre:
+> Juan  
+Ingrese un apellido:
+> Perez
+Ingrese una edad:
+> 33
+Ingrese un telefono:
+> 123456789
+Seleccione una accion:
+> 9
+Ingrese un nombre (opcional):
+> 
+Ingrese un apellido (opcional):
+> 
+Ingrese una edad (opcional):
+> 20
+Ingrese un telefono (opcional):
+> 123456789
+{Luciano, Barletta, 20, 123456789}
+Seleccione una accion:
+> 10
+Ingrese un nombre (opcional):
+> 
+Ingrese un apellido (opcional):
+> 
+Ingrese una edad (opcional):
+> 20
+Ingrese un telefono (opcional):
+> 123456789
+{Juan, Perez, 33, 123456789}
+{Luciano, Barletta, 20, 123456789}
+Seleccione una accion:
+> 11
+Ingrese una ruta de archivo:
+> test.csv
+Ingrese un atributo:
+> edad    
+Seleccione una accion:
+> 12
+Ingrese una suma de edades:
+> 20
+{Luciano, Barletta, 20, 123456789}
+Seleccione una accion:
+> 12
+Ingrese una suma de edades:
+> 53
+{Luciano, Barletta, 20, 123456789}
+{Juan, Perez, 33, 123456789}
+Seleccione una accion:
+> 13
